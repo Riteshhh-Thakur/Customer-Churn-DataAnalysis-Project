@@ -20,8 +20,6 @@ High churn rates impact profitability, resource planning, and customer lifetime 
 
 ## 👤 Role & Responsibilities
 
-As an aspiring Data Analyst, I independently led the project across the full analytics pipeline:
-
 - 🧼 **Data Preparation:** Cleaned and transformed the dataset using Python (`pandas`, `numpy`), fixing data type mismatches, handling nulls, duplicates, and converting categorical features  
 - 🔍 **EDA & Analysis:** Identified key churn drivers like contract type, service usage, tenure, and payment method using `matplotlib`, `seaborn`, and statistical summaries  
 - 📊 **Dashboarding:** Developed **Interactive Power BI dashboards**, showcasing churn KPIs, demographic insights, and service usage patterns  
