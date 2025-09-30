@@ -11,10 +11,10 @@ In today’s subscription-based business model, understanding **why customers le
 High churn rates impact profitability, resource planning, and customer lifetime value. Product and marketing teams often lack a clear understanding of churn drivers, leading to reactive rather than proactive measures.
 
 ### Challenges Addressed:
-Unstructured and inconsistent customer data
-Difficulty identifying early churn signals
-Lack of clarity around service-level impacts on churn
-Visualizing complex trends for non-technical stakeholders
+- Unstructured and inconsistent customer data
+- Difficulty identifying early churn signals
+- Lack of clarity around service-level impacts on churn
+- Visualizing complex trends for non-technical stakeholders
 
 ---
 
@@ -61,7 +61,7 @@ As an aspiring Data Analyst, I independently led the project across the full ana
 - **IDE & Environment:** Jupyter Notebook, Power BI Desktop  
 - **Data Source:** Inception From Kaggle CSV file with telecom customer data  
 
-
+---
 
 ## ✅ Business Recommendations
 
@@ -82,10 +82,10 @@ As an aspiring Data Analyst, I independently led the project across the full ana
 - 🔄 Data modeling and relationship setup across tables  
 
 ---
-📸 Earlier I Made this 
+## 📸 Earlier I Made this 
 <img width="1333" height="760" alt="Screenshot 2025-09-30 200752" src="https://github.com/user-attachments/assets/217471a6-0246-4409-a26a-72428efaac35" />
 
-## But As an Analyst Mondset I was Not Satisfied with that so I worked deeply on the Project and made the Dashboard again reflecting Crystal Clear and Communicable insights
+## But As an Analyst Mindset I was Not Satisfied with that so I worked deeply on the Project and made the Dashboard again reflecting Crystal Clear and Communicable insights
 <img width="1192" height="660" alt="Screenshot 2025-09-30 200812" src="https://github.com/user-attachments/assets/bf7e3141-8cd6-49d7-aa77-6770d9d77be9" />
 <img width="1329" height="739" alt="Screenshot 2025-09-30 200832" src="https://github.com/user-attachments/assets/1343dffb-6c11-490e-abeb-09f0879d5a61" />
 <img width="1148" height="651" alt="Screenshot 2025-09-30 200854" src="https://github.com/user-attachments/assets/ec7e118c-9de0-4f00-8ce6-b5053e030ca3" />
