@@ -32,7 +32,7 @@ High churn rates impact profitability, resource planning, and customer lifetime 
 ### The analysis revealed clear patterns and relationships between churn and several key factors:
 
 - **Tenure Impact:** Most churn occurs within the **first year of service**, indicating onboarding and early experience need improvement  
-- **Contract Influence:** Over **88% of churners** are on **month-to-month contracts**, suggesting long-term plans improve retention  
+- **Contract Influence:** Over **55% of churners** are on **month-to-month contracts**, suggesting long-term plans improve retention  
 - **Senior Citizens:** Have a higher churn rate, needing tailored service or better support experiences  
 - **Service Usage:** Customers **without Tech Support, Online Security, or Streaming services** churn more — lack of engagement leads to loss  
 - **Payment Mode:** Churn is higher among those using **electronic check**, possibly due to billing dissatisfaction or lack of trust
